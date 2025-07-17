@@ -1,0 +1,2 @@
+# Amazonclone.js
+amazonclone
